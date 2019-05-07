@@ -28,7 +28,7 @@ public class NewTest {
   public void enterUrl() {
 	  driver.get("http://newtours.demoaut.com/");
 	  driver.manage().window().maximize();
-	  System.out.println("vishal");
+	  
   }
 
 }
