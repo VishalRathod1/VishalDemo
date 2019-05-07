@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="78392" started-at="2019-05-01T10:40:52Z" finished-at="2019-05-01T10:42:11Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="78392" started-at="2019-05-01T10:40:52Z" finished-at="2019-05-01T10:42:11Z">
+      <class name="com.grid.NewTest">
+        <test-method status="PASS" signature="openBrowser(java.lang.String)[pri:1, instance:com.grid.NewTest@396a51ab]" name="openBrowser" duration-ms="8117" started-at="2019-05-01T10:40:53Z" finished-at="2019-05-01T10:41:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="enterUrl()[pri:2, instance:com.grid.NewTest@396a51ab]" name="enterUrl" duration-ms="70220" started-at="2019-05-01T10:41:01Z" finished-at="2019-05-01T10:42:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enterUrl -->
+      </class> <!-- com.grid.NewTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
